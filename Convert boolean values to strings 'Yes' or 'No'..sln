@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert boolean values to strings 'Yes' or 'No'.", "..\Convert boolean values to strings 'Yes' or 'No'\Convert boolean values to strings 'Yes' or 'No'\Convert boolean values to strings 'Yes' or 'No'..csproj", "{B531A56C-B4BD-4185-8CB4-4CAE934CBE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B531A56C-B4BD-4185-8CB4-4CAE934CBE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B531A56C-B4BD-4185-8CB4-4CAE934CBE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B531A56C-B4BD-4185-8CB4-4CAE934CBE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B531A56C-B4BD-4185-8CB4-4CAE934CBE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {048671D9-35B9-4E83-9F45-5C310671DACC}
+	EndGlobalSection
+EndGlobal
